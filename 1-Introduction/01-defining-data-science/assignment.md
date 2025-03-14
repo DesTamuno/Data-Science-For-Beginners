@@ -5,7 +5,7 @@ In this first assignment, we ask you to think about some real-life process or pr
 1. Which data can you collect?
 1. How would you collect it?
 1. How would you store the data? How large the data is likely to be?
-1. Which insights you might be able to get from this data? Which decisions we would be able to take based on the data?
+1. Which insights you might be able to get from this data? Which decisions we would be able to take based on the data?  
 
 Try to think about 3 different problems/processes and describe each of the points above for each problem domain.
 
@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
+| Education |Improving education process for children in schools |students performances per term| in databases| we can use the students performance in a session: that is equal to three terms in a whole to determine what subjects the majority of students perform well and the subjects they do not perform well in to determine if they need to re-evaluate the subject teacher or replace them  |
 | Vaccination | | | | |
 | Productivity | | | | |
 
